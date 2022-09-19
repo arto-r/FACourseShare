@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/facourseshare/static/css/main.1841260a.css",
+    "main.js": "/facourseshare/static/js/main.d7389874.js",
+    "static/js/787.1a4532ec.chunk.js": "/facourseshare/static/js/787.1a4532ec.chunk.js",
+    "static/media/selfie.jpg": "/facourseshare/static/media/selfie.70a20c740da9ce863b33.jpg",
+    "static/media/blurredfa.jpg": "/facourseshare/static/media/blurredfa.d7832e0019e08de778db.jpg",
+    "index.html": "/facourseshare/index.html",
+    "main.1841260a.css.map": "/facourseshare/static/css/main.1841260a.css.map",
+    "main.d7389874.js.map": "/facourseshare/static/js/main.d7389874.js.map",
+    "787.1a4532ec.chunk.js.map": "/facourseshare/static/js/787.1a4532ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1841260a.css",
+    "static/js/main.d7389874.js"
+  ]
+}
