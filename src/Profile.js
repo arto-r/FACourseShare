@@ -3,6 +3,7 @@ import Footer from "./Footer"
 import './Profile.css'
 import AppCourse from './AppCourse'
 import Navbar from './Navbar'
+import { Helmet } from 'react-helmet'
 
 const Profile = ({ number }) => {
 
@@ -37,7 +38,7 @@ const Profile = ({ number }) => {
                                     coursename={"Course 1"}
                                     fname={"Name"}
                                     lname={"Surname"}
-                                    id={"n1"}
+                                    id={"p1"}
                                     price={11.99}
                                     text={"Lorem ipsum dolor, sit amet consectetur adipisicing elit. \
                                             Omnis deleniti voluptatibus nisi reprehenderit atque! Itaque nobis, ipsam, \
@@ -54,7 +55,7 @@ const Profile = ({ number }) => {
                                     coursename={"Course 2"}
                                     fname={"Name"}
                                     lname={"Surname"}
-                                    id={"n2"}
+                                    id={"p2"}
                                     price={11.99}
                                     text={"Lorem ipsum dolor, sit amet consectetur adipisicing elit. \
                                             Omnis deleniti voluptatibus nisi reprehenderit atque! Itaque nobis, ipsam, \
@@ -71,7 +72,7 @@ const Profile = ({ number }) => {
                                     coursename={"Course 3"}
                                     fname={"Name"}
                                     lname={"Surname"}
-                                    id={"n3"}
+                                    id={"p3"}
                                     price={11.99}
                                     text={"Lorem ipsum dolor, sit amet consectetur adipisicing elit. \
                                             Omnis deleniti voluptatibus nisi reprehenderit atque! Itaque nobis, ipsam, \
@@ -88,7 +89,7 @@ const Profile = ({ number }) => {
                                     coursename={"Course 4"}
                                     fname={"Name"}
                                     lname={"Surname"}
-                                    id={"n4"}
+                                    id={"p4"}
                                     price={11.99}
                                     text={"Lorem ipsum dolor, sit amet consectetur adipisicing elit. \
                                             Omnis deleniti voluptatibus nisi reprehenderit atque! Itaque nobis, ipsam, \
