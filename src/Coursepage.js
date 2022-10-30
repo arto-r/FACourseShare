@@ -5,9 +5,11 @@ const Coursepage = () => {
     return (
         <>
             <Navbar />
-            
+            <div className="uj">
+                
+            </div>
             <Footer />
-        </>
+        </> 
     );
 }
 

@@ -14,7 +14,7 @@ const Profile = ({ number }) => {
                 <div className="teacher-profile">
                     <img className="selfie-profile" src={require("./assets/selfie.jpg")} alt="selfie.jpg"/>
                     <h1>Artoghrul Rashid</h1>
-                    <a href="malto:artoghrul.rashid23@fryeburgacademy.org" target="_blank" rel="noreferrer" style={{textDecoration:"none", wordBreak:"break-word"}}>
+                    <a href="mailto:artoghrul.rashid23@fryeburgacademy.org" target="_blank" rel="noreferrer" style={{textDecoration:"none", wordBreak:"break-word"}}>
                         <i style={{color:"#777",textDecoration:"none"}}>artoghrul.rashid23@fryeburgacademy.org</i>
                     </a>
                     <br />

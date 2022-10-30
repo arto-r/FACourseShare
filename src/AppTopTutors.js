@@ -37,7 +37,7 @@ const AppTopTutors = () => {
                 </Link>
                 <Link to="../profile" style={{textDecoration:"none"}}>
                     <AppTopTutor 
-                        fullname="Egemen Sarjkuhubhuybyi"
+                        fullname="Egg Man"
                         profilepic={require("./assets/blurredfa.jpg")}
                         place={3}/>
                 </Link>
